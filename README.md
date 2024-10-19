@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princechauhan23&label=Profile%20views&color=0e75b6&style=flat" alt="princechauhan23" /> </p>
 
